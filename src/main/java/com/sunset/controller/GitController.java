@@ -14,6 +14,7 @@ public class GitController {
         System.out.println("Git version 2");
         System.out.println("Git version 3");
         System.out.println("Git hot-fix 热修分支 测试正常合并");
+        System.out.println("hot-fix 演示合并冲突");
         return "this is a git demo,welcome learn idea and Git";
 
     }
