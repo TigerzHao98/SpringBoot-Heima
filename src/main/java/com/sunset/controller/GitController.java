@@ -13,6 +13,7 @@ public class GitController {
         System.out.println("this is a git demo,welcome learn idea and Git");
         System.out.println("Git version 2");
         System.out.println("Git version 3");
+        System.out.println("Git hot-fix 热修分支 测试正常合并");
         return "this is a git demo,welcome learn idea and Git";
 
     }
