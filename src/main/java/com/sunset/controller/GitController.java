@@ -17,6 +17,7 @@ public class GitController {
         System.out.println("master 演示合并冲突");
         System.out.println("hot-fix 演示合并冲突");
         System.out.println("IDEA集成Github进行push");
+        System.out.println("IDEA集成Github进行puLL");
         return "this is a git demo,welcome learn idea and Git";
 
     }
